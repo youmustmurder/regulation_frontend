@@ -178,7 +178,7 @@ git reset HEAD
 ```
 
 ```
-git update-index --asume-unchanged file.txt
+git update-index --assume-unchanged file.txt
 ```
 
 ## Полезные сервисы
